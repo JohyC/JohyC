@@ -23,6 +23,10 @@ Hi, I'm Johy, a web developer from China.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
 </a> 
 
+<a href="https://github.com/JohyC/Practise">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Practise&theme=radical" />
+</a> 
+
 
 
 
