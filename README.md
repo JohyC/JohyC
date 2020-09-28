@@ -2,6 +2,14 @@
 
 Hi, I'm Johy, a web developer from China.
 
+- 🔭 I’m currently not working , I need a new Job!
+- 🌱 I’m currently learning Vue.js & React.
+- ~~👯 I’m looking to collaborate on ...~~
+- ~~🤔 I’m looking for help with ...~~
+- 📫 How to reach me: 
+  - Email: JohyCmail@protonmail.com;
+  - WeChat ID: Vanilla-js;
+
 
 **Languages and Tools:**  
 
