@@ -24,7 +24,7 @@ Hi, I'm Johy, a web developer from China.
 </a>
 
 <a href="https://github.com/JohyC/miao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohyC&layout=compact&theme=radical" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=JohyC&layout=compact&theme=radical" />
 </a>
 
 <a href="https://github.com/JohyC/miao">
