@@ -2,7 +2,7 @@
 
 ###  &nbsp;About Me
 
-👨‍💻&nbsp;**--Hi, I'm Johy, a web developer from China.**
+👨‍💻&nbsp;**--Hi, I'm Johy, a web developer from China.**\
 💡 I like to develop websites and explore new technologies.\
 🎓 &nbsp;I am currently seeking a job and hope to gain more work experience.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
