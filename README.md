@@ -31,12 +31,13 @@
 
 <p align="center">
 <a href="https://github.com/Johyc">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JohyC&show_icons=true&include_all_commits=true&theme=radical"/>
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&langs_count=8&theme=radical"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Practise&theme=radical" />
+  <img width="400em" height="180em" src="https://github-readme-stats.vercel.app/api?username=JohyC&show_icons=true&include_all_commits=true&theme=radical"/>
+    <img width="400em" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&langs_count=8&theme=radical"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Practise&theme=radical" />
 </a>
 </p>
+
 
 
 
