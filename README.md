@@ -31,12 +31,13 @@
 
 <p align="center">
 <a href="https://github.com/Johyc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JohyC&show_icons=true&include_all_commits=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohyC&layout=compact&langs_count=8&theme=radical"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Practise&theme=radical" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JohyC&show_icons=true&include_all_commits=true&theme=radical"/>
+  <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohyC&layout=compact&langs_count=8&theme=radical"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Practise&theme=radical" />
 </a>
 </p>
+
 
 
 ### 🤝🏻 &nbsp;Connect with Me
