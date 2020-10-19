@@ -52,10 +52,6 @@
 
 <p align="center">
 <a href="mailto:JohyCmail@protonmail.com"><img src="https://img.shields.io/badge/-JohyCmail@protonmail.com-D14836?style=flat-square&logo=protonmail&logoColor=white"/></a>
-<a href="tel: +8613340908272"><img src="https://img.shields.io/badge/-telephone:+86 13340908272-1877F2?style=flat-square&logo=QQ&logoColor=white"/></a>
 <a href="https://instagram.com/johycai"><img src="https://img.shields.io/badge/-@johycai-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://facebook.com/ECMAJohy"><img src="https://img.shields.io/badge/-@ECMAJohy-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 </p>
-
-
-
