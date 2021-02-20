@@ -1,6 +1,6 @@
 ## 👋 &nbsp;Hey there! I'm Johy.
 
-###  &nbsp;About Me
+### &nbsp;About Me
 
 👨‍💻&nbsp;**--Hi, I'm Johy, a web developer from China.**\
 💡  &nbsp;I like to develop websites and explore new technologies.\
@@ -30,23 +30,17 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-	<a href="https://github.com/Johyc">
-  		<img width="420rem" height="170em" src="https://github-readme-stats.vercel.app/api?username=JohyC&show_icons=true&include_all_commits=true&theme=radical"/>
-  		<img width="420rem" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&langs_count=8&theme=radical"/>
-	</a>
-	<a href="https://github.com/JohyC/miao">
-  		<img width="420rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
-	</a>
-	<a href="https://github.com/JohyC/Practise">
-  		<img width="420rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Practise&theme=radical" />
-	</a>
+    <a href="https://github.com/Johyc">
+          <img width="410rem" height="170em" src="https://github-readme-stats.vercel.app/api?username=JohyC&show_icons=true&include_all_commits=true&theme=radical"/>
+          <img width="410rem" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&langs_count=8&theme=radical"/>
+    </a>
+    <a href="https://github.com/JohyC/miao">
+          <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
+    </a>
+    <a href="https://github.com/JohyC/Practise">
+          <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Practise&theme=radical" />
+    </a>
 </p>
-
-
-
-
-
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -56,4 +50,3 @@
 <a href="https://facebook.com/ECMAJohy"><img src="https://img.shields.io/badge/-@ECMAJohy-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/ECMAjohy"><img src="https://img.shields.io/badge/-@ECMAJohy-1877F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
-
