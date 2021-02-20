@@ -7,7 +7,7 @@
 🎓 &nbsp;I am currently seeking a job and hope to gain more work experience.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at [JohyCmail@protonmail.com](mailto:JohyCmail@protonmail.com)! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Resume]() for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [Resume](https://johy.cf/) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
