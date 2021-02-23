@@ -37,7 +37,7 @@
     <a href="https://github.com/JohyC/miao">
           <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
     </a>
-    <a href="https://github.com/JohyC/Practise">
+    <a href="https://github.com/JohyC/JohyC.github.io">
           <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=JohyC.github.io&theme=radical" />
     </a>
 </p>
