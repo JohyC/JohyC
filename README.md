@@ -38,7 +38,7 @@
           <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=miao&theme=radical" />
     </a>
     <a href="https://github.com/JohyC/Practise">
-          <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Practise&theme=radical" />
+          <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=JohyC.github.io&theme=radical" />
     </a>
 </p>
 
