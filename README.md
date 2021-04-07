@@ -37,8 +37,8 @@
     <a href="https://github.com/JohyC/JohyC.github.io">
           <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=JohyC.github.io&theme=radical" />
     </a>
-    <a href="https://github.com/JohyC/Actions_lede">
-          <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Actions_lede&theme=radical" />
+    <a href="https://github.com/JohyC/vue-todos">
+          <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=vue-todos&theme=radical" />
     </a>
 </p>
 
