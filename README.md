@@ -3,7 +3,7 @@
 ### &nbsp;About Me
 
 👨‍💻&nbsp;**--Hi, I'm Johy, a web developer from China.**\
-💡  &nbsp;I like to develop websites and explore new technologies.\
+💡 &nbsp;I like to develop websites and explore new technologies.\
 🎓 &nbsp;I am currently seeking a job and hope to gain more work experience.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at [JohyCmail@protonmail.com](mailto:JohyCmail@protonmail.com)! I'll try to respond as soon as I can.\
@@ -30,11 +30,15 @@
 
 <p align="center">
     <a href="https://github.com/Johyc">
-          <img align="center" width="400rem" height="170em" src="https://johyreadmestats.vercel.app/api?username=JohyC&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+          <img align="left" width="400rem" height="170em" src="https://johyreadmestats.vercel.app/api?username=JohyC&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
     <a href="https://github.com/Johyc">
-          <img align="center" width="400rem" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+          <img align="left" width="400rem" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
+</p>
+
+### ⚙️ &nbsp;GitHub Reps
+<p  align="center">
     <a href="https://github.com/JohyC/Hosts">
           <img width="400rem" src="https://johyreadmestats.vercel.app/api/pin/?username=JohyC&repo=Hosts&theme=radical" />
     </a>
@@ -42,7 +46,6 @@
           <img width="400rem" src="https://johyreadmestats.vercel.app/api/pin/?username=JohyC&repo=vue-todos&theme=radical" />
     </a>
 </p>
-
 
 ### 🤝🏻 &nbsp;Connect with Me
 
