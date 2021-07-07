@@ -28,16 +28,16 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p display="flex" align="center">
+<p>
     <a href="https://github.com/Johyc">
-          <img align="center" src="https://johyreadmestats.vercel.app/api?username=JohyC&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
-          <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+          <img src="https://johyreadmestats.vercel.app/api?username=JohyC&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
     <a href="https://github.com/JohyC/Hosts">
-          <img align="center" src="https://johyreadmestats.vercel.app/api/pin/?username=JohyC&repo=Hosts&theme=radical" />
+          <img src="https://johyreadmestats.vercel.app/api/pin/?username=JohyC&repo=Hosts&theme=radical" />
     </a>
     <a href="https://github.com/JohyC/vue-todos">
-          <img align="center" src="https://johyreadmestats.vercel.app/api/pin/?username=JohyC&repo=vue-todos&theme=radical" />
+          <img src="https://johyreadmestats.vercel.app/api/pin/?username=JohyC&repo=vue-todos&theme=radical" />
     </a>
 </p>
 
