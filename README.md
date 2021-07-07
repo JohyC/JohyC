@@ -30,10 +30,10 @@
 
 <p>
     <a href="https://github.com/Johyc">
-          <img src="https://johyreadmestats.vercel.app/api?username=JohyC&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+          <img width="410rem" height="170em" src="https://johyreadmestats.vercel.app/api?username=JohyC&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
     <a href="https://github.com/Johyc">
-          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
+          <img width="410rem" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
     <a href="https://github.com/JohyC/Hosts">
           <img src="https://johyreadmestats.vercel.app/api/pin/?username=JohyC&repo=Hosts&theme=radical" />
