@@ -29,9 +29,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <a href="https://github.com/Johyc">
-          <img width="410rem" height="170em" src="https://github-readme-stats.vercel.app/api?username=JohyC&show_icons=true&include_all_commits=true&theme=radical"/>
-          <img width="410rem" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&langs_count=8&theme=radical&hide=shell"/>
+    <a display="flex" href="https://github.com/Johyc">
+          <img src="https://github-readme-stats.vercel.app/api?username=JohyC&show_icons=true&include_all_commits=true&theme=radical"/>
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JohyC&layout=compact&langs_count=8&theme=radical&hide=shell"/>
     </a>
     <a href="https://github.com/JohyC/Hosts">
           <img width="410rem" src="https://github-readme-stats.vercel.app/api/pin/?username=JohyC&repo=Hosts&theme=radical" />
@@ -41,6 +41,7 @@
     </a>
 </p>
 
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -49,3 +50,4 @@
 <a href="https://facebook.com/ECMAJohy"><img src="https://img.shields.io/badge/-@ECMAJohy-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="https://twitter.com/ECMAjohy"><img src="https://img.shields.io/badge/-@ECMAJohy-1877F2?style=flat-square&logo=twitter&logoColor=white"/></a>
 </p>
+
