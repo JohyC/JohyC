@@ -28,7 +28,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p>
+<p align="center">
     <a href="https://github.com/Johyc">
           <img width="410rem" height="170em" src="https://johyreadmestats.vercel.app/api?username=JohyC&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"/>
     </a>
